@@ -13,3 +13,8 @@ body{
 .line-design{
     border-right: 2px solid orangered;
 }
+.background{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}
