@@ -4,6 +4,7 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+/*----------Carousel Section-----------*/
 .carousel-item{
     height: 80vh;
 }
@@ -11,7 +12,7 @@ body{
     height: 100%;
     object-fit: cover;
 }
-/*Hot item*/
+/*______________Hot item----------------*/
 .btn{
     margin-top: -50px;
     margin-left: 170px;
@@ -20,7 +21,7 @@ body{
 .bg{
     transform: scale(1.1);
 }
-/*Contact Section*/
+/*______Contact Section________*/
 .line-design{
     border-right: 2px solid orangered;
 }
